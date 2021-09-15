@@ -20,7 +20,8 @@ namespace vE
         private void button1_Click(object sender, EventArgs e)
         {
 
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Pueden arrebatarte el mundo. \nPueden arrebatarte el corazón. \nQuitarte todo lo que conoces. \nPero si es tu destino, cada paso hacia delante te llevará un paso más cerca de casa.");
+
         }
     }
 }
